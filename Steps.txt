@@ -1,0 +1,42 @@
+
+
+- Scale data 
+
+- Apply PCA, n_components explain 90% variance / random_state=RANDOM_STATE
+
+- explained variance of 3 PC print(np.round(pca.explained_variance_ratio_[:3],3))
+- n_components 
+- plot 2 most important PC
+
+- elbow method to select optimal number of clusters (kmeans.inertia_ )
+"calculating the sum of squared distances from each point to its assigned center(distortions)."
+- plot elbow graph
+
+- crosstab to evaluate missclassification
+
+- try other clustering technique: Agglomerative 
+
+- Compare ARI of clustering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

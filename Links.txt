@@ -1,0 +1,32 @@
+Youtube tutorial series on Dash (Python)
+2018
+https://www.youtube.com/watch?v=rDodciQhfS8&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt&index=12
+
+** https://www.datacamp.com/community/tutorials/learn-build-dash-python
+HEROKU --> https://www.heroku.com/what
+
+- Deployement to Heroku
+
+
+Great 3D Scatter plot examples 
+https://news.radio-t.com/post/introducing-dash-plotly-medium
+
+https://github.com/plotly/Plotcon-Python-Workshop-2017/blob/master/README.md
+
+
+
+
+
+R Shiny 
+https://nycdatascience.com/blog/student-works/food-and-health-demographics-in-the-usa/
+
+https://shiny.rstudio.com/gallery/google-charts.html
+
+https://shiny.rstudio.com/gallery/kmeans-example.html
+
+https://genviz.org/module-07-appendix/0007/02/01/introToshiny/
+
+
+
+
+
