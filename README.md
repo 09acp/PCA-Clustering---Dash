@@ -27,8 +27,10 @@ Toy project that applies PCA for dimensionality reduction and follows through wi
   - [x] 3D Scatter plot for first three principal components.
   - [x] Display explained variance contribution by feature instead of class in DASH drawdown.
   - [x] Use t-SNE on PCs
-  - [x] 3D Scatter plot for t-SNE factors.
     ![PCA explained variance by element](https://github.com/09acp/PCA-Clustering---Dash/blob/master/screenshots/pca_scatter3d.PNG?raw=true "PCA explained variance by element")
+
+  - [x] 3D Scatter plot for t-SNE factors.
+    ![t-SNE explained variance by element](https://github.com/09acp/PCA-Clustering---Dash/blob/master/screenshots/t-SNE_scatter3d.PNG?raw=true "t-SNE explained variance by element")
 
 #### __Server Hosting__
   [x] Create Git repo
